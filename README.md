@@ -32,9 +32,7 @@ Built with **MediaPipe Hands** and **JavaScript**, it turns your webcam into an 
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="assets/preview.gif" alt="Drawtica preview" width="300" />
-</div>
+https://github.com/user-attachments/assets/b7c532dc-8b20-460d-856b-5023a7a0e80a
 
 ---
 
