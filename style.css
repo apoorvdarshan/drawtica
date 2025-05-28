@@ -232,7 +232,7 @@ footer.social-footer {
   #preview,
   .video-wrapper,
   .output-preview {
-    width: 260px !important;
+    width: auto !important;
     height: 200px !important;
   }
 
