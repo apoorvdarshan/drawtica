@@ -9,11 +9,11 @@ Built with **MediaPipe Hands** and **JavaScript**, it turns your webcam into an 
 
 ## 🔗 Live Preview
 
-🌐 [https://apoorvdarshan.github.io/drawtica](https://apoorvdarshan.github.io/drawtica)
+🌐 [https://drawtica.aopv.dev](https://drawtica.aopv.dev)
 
 ## 💻 Source Code
 
-📂 [https://github.com/apoorvdarshan/drawtica](https://github.com/apoorvdarshan/drawtica)
+📂 [https://github.com/aopv/drawtica](https://github.com/aopv/drawtica)
 
 ---
 
@@ -53,4 +53,4 @@ Give this repo a ⭐ if you believe motion-controlled web apps are the future!
 
 ## 👨‍💻 Created By
 
-Made with ❤️ by [Apoorv Darshan](https://github.com/apoorvdarshan)
+Made with ❤️ by [Apoorv Darshan](https://github.com/aopv)
